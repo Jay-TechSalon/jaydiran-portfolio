@@ -4,7 +4,7 @@
   "description": "Portfolio Site for UX and Product Design",
   "main": "index.js",
   "scripts": {
-    "compile:scss": "node-sass assets/sass/main.scss assets/css/main.css -w"
+    "compile:sass": "node-sass assets/sass/main.scss assets/css/main.css -w"
   },
   "author": "Jay Diran",
   "license": "ISC",

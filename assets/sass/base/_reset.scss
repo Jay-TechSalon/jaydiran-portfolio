@@ -74,3 +74,12 @@
 		-ms-appearance: none;
 		appearance: none;
 	}
+
+
+	// user agent stylesheet
+	:focus {
+		outline: -webkit-focus-ring-color auto 0;
+		outline-color: -webkit-focus-ring-color;
+		outline-style: auto;
+		outline-width: 0;
+	}

@@ -1,0 +1,14 @@
+{
+  "name": "jaydiran-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio Site for UX and Product Design",
+  "main": "index.js",
+  "scripts": {
+    "compile:scss": "node-sass assets/sass/main.scss assets/css/main.css -w"
+  },
+  "author": "Jay Diran",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
